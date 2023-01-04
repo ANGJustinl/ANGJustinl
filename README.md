@@ -47,9 +47,7 @@
 <details>
   <summary>Click</summary>
   
- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ANGJustinl&theme=xcode" /> </div> 
-  
-![All](./github-metrics.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
 
 </details>
 
