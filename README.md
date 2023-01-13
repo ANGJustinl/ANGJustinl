@@ -33,16 +33,7 @@
 
 
 
-
-
-
-
-
-
 ### 📊*Statistic*
-
-![](https://raw.githubusercontent.com/ANGJustinl/ANGJustinl/main/assets/github-contribution-grid-snake.svg)
-
 
 <details>
   <summary>Click</summary>
