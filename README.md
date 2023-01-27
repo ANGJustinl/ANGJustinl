@@ -14,7 +14,7 @@
 
 
 
-✨STUDENT <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
+✨STUDENT 
 
 </div>
 
@@ -33,7 +33,7 @@
 
 
 
-### 📊*Statistic*
+### 📊*Statistic* <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
 
 <details>
   <summary>Click</summary>
