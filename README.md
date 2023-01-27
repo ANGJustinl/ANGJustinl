@@ -44,5 +44,6 @@
 
 </details>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
 
-Last Updated on 20/12/2022 18:09:07 UTC <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
+Last Updated on 20/12/2022 18:09:07 UTC 
