@@ -33,7 +33,7 @@
 
 
 
-### 📊*Statistic* <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
+### 📊*Statistic* 
 
 <details>
   <summary>Click</summary>
@@ -45,4 +45,4 @@
 </details>
 
 
-Last Updated on 20/12/2022 18:09:07 UTC
+Last Updated on 20/12/2022 18:09:07 UTC <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
