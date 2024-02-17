@@ -39,7 +39,7 @@
   <summary>Click</summary>
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
 
 </details>
 
