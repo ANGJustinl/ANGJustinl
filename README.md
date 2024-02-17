@@ -8,7 +8,7 @@
 
 
 
-[![Email](https://img.shields.io/badge/Email-ANGJustin@163.com-6A5ACD?style=flat-square&logoColor=fff)](mailto:ANGJustin@163.com)
+[![Email](https://img.shields.io/badge/Email-ANGJustin@163.com-6A5ACD?style=flat-square&logoColor=fff)](mailto:ANGJustinl@163.com)
 [![QQ](https://img.shields.io/badge/QQ-77139032-98FB98?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0)
 
 
@@ -27,7 +27,7 @@
 
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
 
