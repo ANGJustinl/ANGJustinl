@@ -46,4 +46,48 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                410 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌆 Daytime                434 commits         ████████░░░░░░░░░░░░░░░░░   31.13 % 
+🌃 Evening                509 commits         █████████░░░░░░░░░░░░░░░░   36.51 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Go                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+
+ Last Updated on 17/02/2024 15:10:18 UTC
 <!--END_SECTION:waka-->
