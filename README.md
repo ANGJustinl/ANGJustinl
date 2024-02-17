@@ -38,12 +38,12 @@
 <details>
   <summary>Click</summary>
   
-![ANGJustinl's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANGJustinl&layout=compact&hide_border=true&langs_count=10)
-  
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
 
 </details>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
 
-Last Updated on 20/12/2022 18:09:07 UTC 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
