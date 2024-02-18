@@ -36,14 +36,14 @@
 ### 📊*Statistic* 
 
 <details>
-  <summary>Click</summary>
-  
+
+<p align="center">
+   <img src="https://github.com/ANGJustinl/ANGJustinl/blob/main/github-metrics.svg" alt="typing-svg">
+</p>
 
 [![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
 
 </details>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=ANGJustinl" />
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
