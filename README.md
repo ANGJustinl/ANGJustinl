@@ -42,7 +42,7 @@
 </p>
 
 [![Github activity graph](https://github-readme-activity-graph.angforever.top/graph?username=ANGJustinl&theme=dracula)](https://github.com/ANGJustinl/ANGJustinl)
-![image](https://github.com/ANGJustinl/ANGJustinl/assets/96008766/f6c957b8-b907-482a-8804-4c1f944d4b60
+![image](https://github.com/ANGJustinl/ANGJustinl/assets/96008766/f6c957b8-b907-482a-8804-4c1f944d4b60)
 </details>
 
 <!--START_SECTION:waka-->
