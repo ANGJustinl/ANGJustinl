@@ -24,7 +24,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
-
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2051%20mins-blue?style=flat-square&)
 
 
 |<img align="right" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC" />| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=javascript,html,css)](https://github.com/angjustinl)|
@@ -46,7 +46,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2051%20mins-blue)
+
 
 **I'm an Early 🐤** 
 
