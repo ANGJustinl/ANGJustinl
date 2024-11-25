@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="table{table-layout:fixed;word-break:break-all;}">
+
 <p align="center">
   <picture>
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1ANGJustinl%F0%9F%8C%B1+!" />
@@ -62,6 +64,8 @@
 <tbody>
   <tr>
     <td colspan="3">
+      <details>
+        <summary> 💻 Waka stats</summary>
 <p align="center">
 
 <!--START_SECTION:waka-->
@@ -121,9 +125,10 @@ Java                     1 repo              █░░░░░░░░░░�
  Last Updated on 25/11/2024 00:48:58 UTC
 
 <!--END_SECTION:waka-->
-
+</p>      
 </td><td colspan="3">
       <details>
+        <summary> Github Stats</summary>
 <p align="center">
 
 <p align="center">
