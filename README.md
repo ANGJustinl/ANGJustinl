@@ -25,7 +25,7 @@
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ANGJustinl&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&format=long" />
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&rank_icon=github&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&format=long" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
