@@ -14,6 +14,7 @@
     <p align="center">
     <a href="mailto:ANGJustinl@gmail.com"><img src="https://img.shields.io/badge/Email-ANGJustinl@gmail.com-6A5ACD?style=flat-square&logoColor=fff" /></a>
     <a href="https://ANGForever.top"><img src="https://img.shields.io/badge/Website-ANGForever.top-3A2ALD?style=flat-square&logoColor=fff" /></a>
+    <a href="https://www.angforever.top"><img src="https://img.shields.io/badge/AboutMe-ANGJustinl-12224D?style=flat-square&logoColor=fff" /></a>
     </p>
     <p align="center">Feel free to contact</p>
     <p align="center">
