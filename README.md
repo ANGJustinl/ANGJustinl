@@ -18,7 +18,7 @@
     </p>
     <p align="center">Feel free to contact</p>
     <p align="center">
-      <a href="Skills"><img src="https://skillicons.dev/icons?perline=15&i=github,git,vscode,python,lua,html,c&theme=light" /></a>
+      <a href="Skills"><img src="https://skillicons.dev/icons?perline=15&i=python,lua,github,vscode,html,c,go,git&theme=light" /></a>
     </p>
   </td>
 <tbody>
