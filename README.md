@@ -41,13 +41,13 @@
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&theme=default&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&hide=javascript,html,php,css&theme=default&border_color=0000&bg_color=0000" />
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&hide=typescript,javascript,html,php,css&theme=default&border_color=0000&bg_color=0000" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=javascript,html,css">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=javascript,html,php,css&bg_color=00000000&text_color=000000&hide_border=true" />
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=typescript,javascript,html,php,css&bg_color=00000000&text_color=000000&hide_border=true" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
