@@ -69,17 +69,17 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ███████████████░░░░░░░░░░   59.57 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   28 repos            ███████████████░░░░░░░░░░   58.33 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 22/09/2025 02:05:15 UTC
+ Last Updated on 25/09/2025 01:56:49 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
