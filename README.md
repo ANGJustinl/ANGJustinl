@@ -22,7 +22,7 @@
     </p>
   </td>
 <tbody>
-  <tr>
+  <tr style="vertical-align: top;">
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC">
@@ -36,7 +36,27 @@
       </picture>
     </a></td>
   </tr>
-</tbody><tbody>
+</tbody>
+<tbody>
+ <tr style="vertical-align: top;"> 
+   <td colspan="2" style="width: 40%;">
+      <a href="https://gitroll.io/profile/uZrqY7KVgYaX4EGtZQSpKAcaT1k52" target="_blank">
+        <img src="https://gitroll.io/api/badges/profiles/v1/uZrqY7KVgYaX4EGtZQSpKAcaT1k52?theme=light" alt="GitRoll Profile Badge" style="width: 100%; height: auto;"/>
+      </a>
+  </td>
+
+  <td colspan="3" style="width: 60%;">
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96008766" target="_blank" style="display: block" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96008766&image_size=auto&color_scheme=dark" width="771" height="auto">
+          <img alt="Dashboard stats of @ANGJustinl" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96008766&image_size=auto&color_scheme=light" width="771" height="auto" style="width: 100%; height: auto;">
+        </picture>
+      </a>
+  </td>
+
+</tr>
+</tbody>
+<tbody>
   <tr>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
