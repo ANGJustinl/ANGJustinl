@@ -19,10 +19,7 @@
     <p align="center">Feel free to contact</p>
     <p align="center">
       <a href="Skills">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?perline=15&theme=dark&i=python,lua,github,vscode,html,c,go,git" />
-          <img src="https://skillicons.dev/icons?perline=15&theme=light&i=python,lua,github,vscode,html,c,go,git" />
-        </picture>
+        <a href="Skills"><img src="https://skillicons.dev/icons?perline=15&i=python,lua,github,vscode,html,c,go,git&theme=light" /></a>
       </a>
     </p>
   </td>
