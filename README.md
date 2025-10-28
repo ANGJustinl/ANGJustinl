@@ -25,14 +25,14 @@
   <tr style="vertical-align: top;">
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&show_icons=true&hide_border=true&bg_color=15,f2f7fd,E0EAFC">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&format=long" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&show_icons=true&hide_border=true&bg_color=0000">
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ANGJustinl&count_private=true&count_private=true&show_icons=true&hide_border=true&bg_color=0000&format=long" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stat-eight.vercel.app/?user=angjustinl&mode=weekly&theme=default&hide_border=true&background=00000000">
-        <img height="100%" src="https://github-readme-streak-stat-eight.vercel.app/?user=angjustinl&mode=weekly&theme=default&hide_border=true&background=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stat-eight.vercel.app/?user=angjustinl&mode=weekly&theme=default&hide_border=true&background=0000">
+        <img height="100%" src="https://github-readme-streak-stat-eight.vercel.app/?user=angjustinl&mode=weekly&theme=default&hide_border=true&background=0000" />
       </picture>
     </a></td>
   </tr>
@@ -41,7 +41,7 @@
  <tr style="vertical-align: top;"> 
    <td colspan="2" style="width: 40%;">
       <a href="https://gitroll.io/profile/uZrqY7KVgYaX4EGtZQSpKAcaT1k52" target="_blank">
-        <img src="https://gitroll.io/api/badges/profiles/v1/uZrqY7KVgYaX4EGtZQSpKAcaT1k52?theme=light" alt="GitRoll Profile Badge" style="width: 100%; height: auto;"/>
+        <img src="https://gitroll.io/api/badges/profiles/v1/uZrqY7KVgYaX4EGtZQSpKAcaT1k52?theme=nord" alt="GitRoll Profile Badge" style="width: 100%; height: auto;"/>
       </a>
   </td>
 
@@ -67,7 +67,7 @@
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=javascript,html,css">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=typescript,javascript,html,php,css&bg_color=00000000&text_color=000000&hide_border=true" />
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&hide=typescript,javascript,html,php,css&border_color=0000&bg_color=0000&hide_border=true" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
