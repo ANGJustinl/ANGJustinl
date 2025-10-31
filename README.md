@@ -16,13 +16,37 @@
     <a href="https://ANGForever.top"><img src="https://img.shields.io/badge/Website-ANGForever.top-3A2ALD?style=flat-square&logoColor=fff" /></a>
     <a href="https://www.angforever.top"><img src="https://img.shields.io/badge/AboutMe-ANGJustinl-12224D?style=flat-square&logoColor=fff" /></a>
     </p>
-    <p align="center">Feel free to contact</p>
-    <p align="center">
-      <a href="Skills">
-        <a href="Skills"><img src="https://skillicons.dev/icons?perline=15&i=python,lua,github,vscode,html,c,go,git&theme=light" /></a>
-      </a>
-    </p>
-  </td>
+    <div align="center">
+      <p>Feel free to contact</p>
+        <table>
+          <tbody>
+            <tr>
+              <td align="right" style="padding-right: 10px;"><strong>Python & ML:</strong></td>
+              <td>
+                <img src="https://skillicons.dev/icons?perline=15&i=python,pytorch,fastapi" />
+              </td>
+            </tr>
+            <tr>
+              <td align="right" style="padding-right: 10px;"><strong>Platform & Server skills:</strong></td>
+              <td>
+                <img src="https://skillicons.dev/icons?perline=15&i=windows,debian,vscode,docker,nginx" />
+              </td>
+            </tr>
+            <tr>
+              <td align="right" style="padding-right: 10px;"><strong>Git and CI/CD:</strong></td>
+              <td>
+                <img src="https://skillicons.dev/icons?perline=15&i=github,githubactions,md" />
+              </td>
+            </tr>
+            <tr>
+              <td align="right" style="padding-right: 10px;"><strong>Other languages:</strong></td>
+              <td>
+                <img src="https://skillicons.dev/icons?perline=15&i=html,go,ros,lua,c,latex,bash" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
 <tbody>
   <tr style="vertical-align: top;">
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
