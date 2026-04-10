@@ -58,7 +58,7 @@
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stat-eight.vercel.app/?user=angjustinl&theme=dark&mode=weekly&theme=dark&hide_border=true&background=0000">
-        <img height="100%" src="https://streak-stats.demolab.com//?user=angjustinl&mode=weekly&hide_border=true&background=0000" />
+        <img height="100%" src="https://streak-stats.demolab.com/?user=angjustinl&mode=weekly&hide_border=true&background=0000" />
       </picture>
     </a></td>
   </tr>
