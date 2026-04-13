@@ -115,15 +115,13 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C401%20hrs%2056%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2260 commits        ███████████░░░░░░░░░░░░░░   44.11 % 
-🌆 Daytime                1336 commits        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌃 Evening                1379 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+🌞 Morning                2273 commits        ███████████░░░░░░░░░░░░░░   43.66 % 
+🌆 Daytime                1377 commits        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌃 Evening                1407 commits        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -133,42 +131,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 6 mins       ██████████████████████░░░   88.41 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    24 hrs 34 mins      █████████████████████░░░░   85.30 % 
+Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+TypeScript               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Edge                     19 hrs 5 mins       ██████████████████░░░░░░░   73.03 % 
-VS Code                  7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Edge                     18 hrs 56 mins      ████████████████░░░░░░░░░   65.73 % 
+VS Code                  9 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+Antigravity              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-SyncCaster-cli           10 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.21 % 
-mediaclaw                3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-4c-glm                   3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-SyncCaster               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-nanobot                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+mediaclaw                8 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.56 % 
+SyncCaster-cli           4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Delightify               4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+nanobot                  2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+SyncCaster               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 💻 Operating System: 
-Windows                  13 hrs 48 mins      █████████████░░░░░░░░░░░░   52.81 % 
-Linux                    12 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.19 % 
+Windows                  16 hrs 7 mins       ██████████████░░░░░░░░░░░   55.94 % 
+Linux                    12 hrs 41 mins      ███████████░░░░░░░░░░░░░░   44.06 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ███████████░░░░░░░░░░░░░░   45.35 % 
-TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   39 repos            ███████████░░░░░░░░░░░░░░   44.83 % 
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 
 
 
- Last Updated on 10/04/2026 05:59:31 UTC
+ Last Updated on 13/04/2026 06:02:11 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
