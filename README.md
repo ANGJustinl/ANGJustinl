@@ -90,13 +90,13 @@
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&theme=default&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&hide=typescript,javascript,html,php,css&theme=default&border_color=0000&bg_color=0000" />
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&hide=html,php&theme=default&border_color=0000&bg_color=0000" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&theme=dark&bg_color=0000&hide_border=true&hide=javascript,html,css">
-        <img height="100%" src="https://github-readme-stats-vercel.vercel.angforever.top/api/top-langs/?username=angjustinl&hide=typescript,javascript,html,php,css&border_color=0000&bg_color=0000&hide_border=true" />
+        <img height="100%" src="https://github-readme-stats-vercel.vercel.angforever.top/api/top-langs/?username=angjustinl&hide=html,php&border_color=0000&bg_color=0000&hide_border=true" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
