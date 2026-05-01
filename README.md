@@ -118,10 +118,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2293 commits        ███████████░░░░░░░░░░░░░░   42.93 % 
+🌞 Morning                2293 commits        ███████████░░░░░░░░░░░░░░   42.92 % 
 🌆 Daytime                1454 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 🌃 Evening                1446 commits        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-🌙 Night                  148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 
 
@@ -131,42 +131,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 hrs 37 mins      ██████████████████░░░░░░░   72.01 % 
-Python                   8 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Markdown                 2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-TypeScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    28 hrs 40 mins      ███████████████████░░░░░░   75.87 % 
+Python                   5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Edge                     31 hrs 19 mins      ████████████████░░░░░░░░░   63.33 % 
-VS Code                  18 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
+Edge                     24 hrs 48 mins      ████████████████░░░░░░░░░   65.65 % 
+VS Code                  11 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   31.73 % 
+Unknown Editor           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-reading-kb               14 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Fed-ICL                  10 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-TabPFN_2                 10 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-sp_vision_25             3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-intro                    2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TabPFN_2                 13 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
+Fed-ICL                  9 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+reading-kb               8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+sp_vision_25             3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+intro                    2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 💻 Operating System: 
-Linux                    30 hrs 30 mins      ███████████████░░░░░░░░░░   61.65 % 
-Windows                  18 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.35 % 
+Linux                    21 hrs 8 mins       ██████████████░░░░░░░░░░░   55.93 % 
+Windows                  16 hrs 39 mins      ███████████░░░░░░░░░░░░░░   44.07 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ███████████░░░░░░░░░░░░░░   43.82 % 
-TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Python                   39 repos            ███████████░░░░░░░░░░░░░░   44.32 % 
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
 
 
- Last Updated on 28/04/2026 06:33:59 UTC
+ Last Updated on 01/05/2026 06:52:30 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
