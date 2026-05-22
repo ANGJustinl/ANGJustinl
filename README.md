@@ -115,20 +115,59 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2298 commits        ███████████░░░░░░░░░░░░░░   42.90 % 
+🌆 Daytime                1462 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌃 Evening                1449 commits        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌙 Night                  148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    20 hrs 21 mins      █████████████████░░░░░░░░   68.74 % 
+TypeScript               2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Markdown                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Python                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+
+🔥 Editors: 
+Edge                     20 hrs 40 mins      █████████████████░░░░░░░░   69.77 % 
+VS Code                  8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+
+🐱‍💻 Projects: 
+new-api                  8 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+international-rating-syst7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+TabPFN_2                 5 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+benthic                  4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Fed-ICL                  1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+
+💻 Operating System: 
+Windows                  25 hrs 32 mins      ██████████████████████░░░   86.24 % 
+Linux                    4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ███████████░░░░░░░░░░░░░░   43.68 % 
-TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Python                   38 repos            ███████████░░░░░░░░░░░░░░   43.18 % 
+TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
 
 
- Last Updated on 19/05/2026 07:18:58 UTC
+ Last Updated on 22/05/2026 07:24:38 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
