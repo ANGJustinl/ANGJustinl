@@ -115,15 +115,13 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C614%20hrs%2052%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2304 commits        ███████████░░░░░░░░░░░░░░   43.02 % 
-🌆 Daytime                1463 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-🌃 Evening                1445 commits        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-🌙 Night                  144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌞 Morning                2304 commits        ███████████░░░░░░░░░░░░░░   42.95 % 
+🌆 Daytime                1464 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌃 Evening                1451 commits        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌙 Night                  145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -133,43 +131,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 53 mins      ██████████████████░░░░░░░   72.37 % 
-Markdown                 3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-TypeScript               2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-PowerShell               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Go                       36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Other                    28 hrs 4 mins       ██████████████████░░░░░░░   71.35 % 
+TypeScript               4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Markdown                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+JavaScript               45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+PowerShell               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Edge                     24 hrs 42 mins      ████████████████████░░░░░   78.13 % 
-VS Code                  6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Edge                     29 hrs 13 mins      ███████████████████░░░░░░   74.27 % 
+VS Code                  10 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 
 🐱‍💻 Projects: 
-new-api                  8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-GuJumpgate               6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-international-rating-syst5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-kiro-account-manager     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Fed-ICL                  2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+GuJumpgate               9 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+WorkshopDL               5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+international-rating-syst5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+ldc-shop                 4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+cc-switch                3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 💻 Operating System: 
-Windows                  30 hrs 2 mins       ████████████████████████░   94.97 % 
-Linux                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Windows                  30 hrs 23 mins      ███████████████████░░░░░░   77.27 % 
+Linux                    8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   38 repos            ███████████░░░░░░░░░░░░░░   43.68 % 
-TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   28.74 % 
 JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 07:19:09 UTC
+ Last Updated on 31/05/2026 07:39:52 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
