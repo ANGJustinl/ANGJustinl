@@ -15,6 +15,7 @@
     <a href="mailto:ANGJustinl@gmail.com"><img src="https://img.shields.io/badge/Email-ANGJustinl@gmail.com-6A5ACD?style=flat-square&logoColor=fff" /></a>
     <a href="https://ANGForever.top"><img src="https://img.shields.io/badge/Website-ANGForever.top-3A2ALD?style=flat-square&logoColor=fff" /></a>
     <a href="https://www.angforever.top"><img src="https://img.shields.io/badge/AboutMe-ANGJustinl-12224D?style=flat-square&logoColor=fff" /></a>
+    <a href="https://www.angforever.top"><img src="http://img.shields.io/badge/Code%20Time-2%2C652%20hrs%2044%20mins-blue?style=flat-square" /></a>
     </p>
     <div align="center">
       <p>Feel free to contact</p>
