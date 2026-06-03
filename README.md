@@ -52,13 +52,13 @@
   <tr style="vertical-align: top;">
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ANGJustinl&theme=dark&count_private=true&show_icons=true&hide_border=true&bg_color=0000">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vercel.vercel.angforever.top/api?username=ANGJustinl&theme=dark&count_private=true&show_icons=true&hide_border=true&bg_color=0000">
         <img height="100%" src="https://github-readme-stats-vercel.vercel.angforever.top/api?username=ANGJustinl&count_private=true&count_private=true&show_icons=true&hide_border=true&bg_color=0000&format=long" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stat-eight.vercel.app/?user=angjustinl&theme=dark&mode=weekly&theme=dark&hide_border=true&background=0000">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=angjustinl&theme=dark&mode=weekly&theme=dark&hide_border=true&background=0000">
         <img height="100%" src="https://streak-stats.demolab.com/?user=angjustinl&mode=weekly&hide_border=true&background=0000" />
       </picture>
     </a></td>
@@ -96,7 +96,7 @@
     </a></td>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=angjustinl&theme=dark&bg_color=0000&hide_border=true&hide=javascript,html,css">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vercel.vercel.angforever.top/api/top-langs/?username=angjustinl&theme=dark&bg_color=0000&hide_border=true&hide=javascript,html,css">
         <img height="100%" src="https://github-readme-stats-vercel.vercel.angforever.top/api/top-langs/?username=angjustinl&hide=html,php&border_color=0000&bg_color=0000&hide_border=true" />
       </picture>
     </a></td>
