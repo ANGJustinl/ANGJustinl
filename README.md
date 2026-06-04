@@ -116,61 +116,22 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C652%20hrs%2044%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2304 commits        ███████████░░░░░░░░░░░░░░   42.94 % 
-🌆 Daytime                1464 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-🌃 Evening                1453 commits        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-🌙 Night                  145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    33 hrs 8 mins       ████████████████░░░░░░░░░   65.57 % 
-TypeScript               5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Markdown                 3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Python                   2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-YAML                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-
-🔥 Editors: 
-Edge                     34 hrs 26 mins      █████████████████░░░░░░░░   68.15 % 
-VS Code                  15 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Claude Code              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-
-🐱‍💻 Projects: 
-WorkshopDL               11 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-GuJumpgate               9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-international-rating-syst5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-adb-gopay                4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-ldc-shop                 4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-
-💻 Operating System: 
-Windows                  39 hrs 26 mins      ████████████████████░░░░░   78.04 % 
-Linux                    11 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2044%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ███████████░░░░░░░░░░░░░░   43.68 % 
-TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 
 
 
- Last Updated on 01/06/2026 08:13:20 UTC
+ Last Updated on 04/06/2026 08:00:55 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
