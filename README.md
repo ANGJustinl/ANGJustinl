@@ -116,22 +116,20 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2044%20mins-blue?style=flat)
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-TypeScript               25 repos            ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   44.94 % 
+TypeScript               26 repos            ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 
 
 
 
- Last Updated on 04/06/2026 08:00:55 UTC
+ Last Updated on 07/06/2026 07:46:36 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
