@@ -119,10 +119,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2316 commits        ███████████░░░░░░░░░░░░░░   42.18 % 
-🌆 Daytime                1511 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌃 Evening                1511 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+🌞 Morning                2346 commits        ██████████░░░░░░░░░░░░░░░   41.63 % 
+🌆 Daytime                1573 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌃 Evening                1557 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌙 Night                  160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 
@@ -132,44 +132,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    41 hrs 29 mins      ██████████████░░░░░░░░░░░   56.19 % 
-TypeScript               14 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Markdown                 8 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JavaScript               2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Bash                     1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Other                    31 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.28 % 
+TypeScript               19 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Markdown                 9 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+JavaScript               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+CSS                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Edge                     42 hrs 36 mins      ██████████████░░░░░░░░░░░   57.70 % 
-VS Code                  26 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.84 % 
-Claude Code              4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+VS Code                  33 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.56 % 
+Edge                     31 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.68 % 
+Claude Code              4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-soloverser               31 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.17 % 
-ohmystudent              6 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-sub2api                  5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-EPD-nRF5                 4 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-xiaohongshu-mcp          3 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+soloverser               22 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   32.37 % 
+CitySense                16 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+ohmystudent              5 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+EPD-nRF5                 5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+xiaohongshu-mcp          2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  58 hrs 8 mins       ████████████████████░░░░░   78.73 % 
-Linux                    15 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Windows                  63 hrs 29 mins      ███████████████████████░░   91.41 % 
+Linux                    5 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            ███████████░░░░░░░░░░░░░░   43.96 % 
-TypeScript               27 repos            ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+TypeScript               28 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 
 
 
- Last Updated on 13/06/2026 07:51:16 UTC
+ Last Updated on 16/06/2026 08:43:27 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
