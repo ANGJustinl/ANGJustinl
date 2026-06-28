@@ -116,15 +116,13 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C826%20hrs%2048%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2374 commits        ██████████░░░░░░░░░░░░░░░   40.90 % 
-🌆 Daytime                1653 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌃 Evening                1612 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+🌞 Morning                2379 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌆 Daytime                1657 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌃 Evening                1616 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌙 Night                  163 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 
 
@@ -134,41 +132,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 53 mins      ██████████████████░░░░░░░   73.42 % 
-CSS                      2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               5 hrs 43 mins       █████████████████████░░░░   84.49 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 11 mins      █████████████████████████   99.94 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  5 hrs 52 mins       ██████████████████████░░░   86.51 % 
+Claude Code              54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 
 🐱‍💻 Projects: 
-CitySense                10 hrs 18 mins      ████████████████░░░░░░░░░   63.63 % 
-icloud-hme-manager       4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Unknown Project          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-kai-s                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-77139                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+icloud-hme-manager       5 hrs 11 mins       ███████████████████░░░░░░   76.57 % 
+Unknown Project          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+kai-s                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+GuJumpgate-v0.1.5        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+FL-kb                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Windows                  16 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
-TypeScript               28 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   43.01 % 
+TypeScript               29 repos            ████████░░░░░░░░░░░░░░░░░   31.18 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 25/06/2026 07:31:23 UTC
+ Last Updated on 28/06/2026 07:48:52 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
