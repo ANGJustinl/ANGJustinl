@@ -116,13 +116,17 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs%2038%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2399 commits        ██████████░░░░░░░░░░░░░░░   40.53 % 
-🌆 Daytime                1715 commits        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-🌃 Evening                1645 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌙 Night                  160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+🌞 Morning                2399 commits        ██████████░░░░░░░░░░░░░░░   40.50 % 
+🌆 Daytime                1717 commits        ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌃 Evening                1647 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌙 Night                  161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 
@@ -132,27 +136,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    36 hrs 7 mins       █████████████████░░░░░░░░   69.34 % 
-GDScript3                2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Markdown                 2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Python                   2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-TypeScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    35 hrs 19 mins      █████████████████░░░░░░░░   69.28 % 
+TypeScript               4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+GDScript3                2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Edge                     35 hrs 31 mins      █████████████████░░░░░░░░   68.18 % 
-VS Code                  16 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   31.12 % 
-Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Edge                     34 hrs 50 mins      █████████████████░░░░░░░░   68.33 % 
+VS Code                  16 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
 
 🐱‍💻 Projects: 
-ubuntu-wo-6sit5-xz-lbwqms6 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-whale-town-front-v2      6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-oai-Team-SSO-OIDC        5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-whaletown                4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-whale-town-end-v2        3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+CF-Server-Monitor        12 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+ubuntu-wo-6sit5-xz-lbwqms6 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+whale-town-front-v2      5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+whaletown                4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+volcengine-python-sdk    3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 💻 Operating System: 
-Windows                  38 hrs 32 mins      ██████████████████░░░░░░░   73.99 % 
-Linux                    13 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Windows                  32 hrs 37 mins      ████████████████░░░░░░░░░   64.00 % 
+Linux                    18 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   36.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 49 mins (31.05%)
+
+✍️ 27,016 lines written by AI, 21 lines written by hand (99.92% AI-written)
+
+🔤 1,039,702,714 Input Tokens, 4,093,185 Output Tokens
+
+💵 $4769.59 Estimated AI Cost This Week
+
+🧠 31 AI Sessions, 137 AI Prompts
+
+GPT                      26,114 lines        ████████████████████████░   94.77 % 
+Github-Copilot           1,327 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Grok                     84 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Fable                    29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 707 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -160,15 +188,15 @@ Linux                    13 hrs 33 mins      ███████░░░░�
 ```text
 Python                   42 repos            ███████████░░░░░░░░░░░░░░   43.30 % 
 TypeScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 Go                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 06:56:24 UTC
+ Last Updated on 28/07/2026 06:59:09 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
