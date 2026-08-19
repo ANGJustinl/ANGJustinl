@@ -116,17 +116,17 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2044%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2416 commits        ██████████░░░░░░░░░░░░░░░   40.82 % 
-🌆 Daytime                1725 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌃 Evening                1620 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                2416 commits        ██████████░░░░░░░░░░░░░░░   40.79 % 
+🌆 Daytime                1727 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌃 Evening                1622 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+🌙 Night                  158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 
@@ -136,50 +136,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 22 mins      ████████████████░░░░░░░░░   62.25 % 
-TypeScript               5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-PowerShell               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Other                    17 hrs 44 mins      ███████████████████░░░░░░   75.53 % 
+TypeScript               4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+PowerShell               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+C++                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Edge                     15 hrs 39 mins      ████████████████░░░░░░░░░   63.37 % 
-Codex Vscode             6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Edge                     17 hrs 58 mins      ███████████████████░░░░░░   76.51 % 
+Codex Vscode             5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🐱‍💻 Projects: 
-3Dto2Dshape              19 hrs 11 mins      ███████████████████░░░░░░   77.64 % 
-mat-research             2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-assignment               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-CitySense                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+3Dto2Dshape              18 hrs 47 mins      ████████████████████░░░░░   79.98 % 
+mat-research             2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+assignment               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Bunraku                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+grok-build               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  23 hrs 53 mins      ████████████████████████░   96.71 % 
-Linux                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Windows                  23 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 54 mins (36.05%)
+⏱ AI Coding Time: 5 hrs 21 mins (22.83%)
 
-✍️ 10,306 lines written by AI, 90 lines written by hand (99.13% AI-written)
+✍️ 4,980 lines written by AI, 91 lines written by hand (98.21% AI-written)
 
-🔤 20,206,647 Input Tokens, 958,998 Output Tokens
+🔤 16,491,806 Input Tokens, 636,524 Output Tokens
 
-💵 $207.90 Estimated AI Cost This Week
+💵 $161.95 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 66 AI Prompts
+🧠 11 AI Sessions, 47 AI Prompts
 
-GPT                      10,535 lines        █████████████████████████   99.96 % 
-Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GPT                      5,132 lines         █████████████████████████   99.92 % 
+Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.13% of written lines came from AI
-📚 Verbose Prompter — average 2,425 characters per prompt
+🤖 AI-Driven — 98.21% of written lines came from AI
+📚 Verbose Prompter — average 3,235 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.89% of changed lines were hand-edited
+🚀 High AI Trust — 1.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -195,7 +194,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 05:34:19 UTC
+ Last Updated on 19/08/2026 05:42:55 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
