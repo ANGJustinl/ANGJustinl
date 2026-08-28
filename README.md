@@ -119,10 +119,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2416 commits        ██████████░░░░░░░░░░░░░░░   40.85 % 
-🌆 Daytime                1725 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌃 Evening                1619 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 Night                  155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌞 Morning                2416 commits        ██████████░░░░░░░░░░░░░░░   40.87 % 
+🌆 Daytime                1725 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌃 Evening                1617 commits        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌙 Night                  154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 
@@ -132,30 +132,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 31 mins      ████████████████████████░   96.54 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    24 hrs 25 mins      █████████████████████░░░░   83.09 % 
+Python                   3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+TypeScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Markdown                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Edge                     28 hrs 29 mins      █████████████████████████   99.90 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Edge                     25 hrs 15 mins      █████████████████████░░░░   85.92 % 
+Codex Vscode             4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-neko                     8 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
-sub2api                  7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Bunraku                  4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-wikibase-suite           4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-3Dto2Dshape              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+neko                     12 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.21 % 
+astro-theme-megastruct   6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+sub2api                  5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+li                       2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+assignment               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Windows                  28 hrs 12 mins      █████████████████████████   98.94 % 
-Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Windows                  29 hrs 8 mins       █████████████████████████   99.13 % 
+Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 6 mins (13.99%)
+
+✍️ 1,969 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 6,979,307 Input Tokens, 463,957 Output Tokens
+
+💵 $24.14 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 44 AI Prompts
+
+GPT                      1,971 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 333 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -171,7 +190,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 05:46:18 UTC
+ Last Updated on 28/08/2026 15:14:21 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
