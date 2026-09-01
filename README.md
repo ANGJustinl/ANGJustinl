@@ -116,16 +116,16 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2411 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
-🌆 Daytime                1711 commits        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌃 Evening                1616 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌞 Morning                2411 commits        ██████████░░░░░░░░░░░░░░░   40.90 % 
+🌆 Daytime                1712 commits        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+🌃 Evening                1616 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
 🌙 Night                  156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
@@ -136,41 +136,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 6 mins       ████████████████████████░   96.04 % 
-TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    14 hrs 19 mins      ████████████████████████░   96.92 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-Edge                     16 hrs 40 mins      █████████████████████████   99.44 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Edge                     13 hrs 55 mins      ████████████████████████░   94.21 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-astro-theme-megastruct   7 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
-neko                     6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
-live2dviewer             1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-3Dto2Dshape              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-astro-theme-pure         29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+astro-theme-megastruct   7 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.60 % 
+neko                     3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+3Dto2Dshape              2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+live2dviewer             1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Windows                  16 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 36 mins      █████████████████████████   98.82 % 
+Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (0.39%)
+⏱ AI Coding Time: 51 mins (5.79%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 6,967,465 Input Tokens, 10,775 Output Tokens
+🔤 13,997,001 Input Tokens, 36,441 Output Tokens
 
-💵 $41.91 Estimated AI Cost This Week
+💵 $80.23 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 1 AI Prompts
+🧠 6 AI Sessions, 2 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
@@ -192,7 +193,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 09:11:32 UTC
+ Last Updated on 01/09/2026 08:50:39 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
