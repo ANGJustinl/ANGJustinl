@@ -116,16 +116,16 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-919%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-919%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2014%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2439 commits        ██████████░░░░░░░░░░░░░░░   40.89 % 
-🌆 Daytime                1738 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌃 Evening                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌞 Morning                2439 commits        ██████████░░░░░░░░░░░░░░░   40.88 % 
+🌆 Daytime                1739 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌃 Evening                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
 🌙 Night                  158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 
@@ -136,49 +136,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 hrs 38 mins      ██████████████████████░░░   88.17 % 
-TypeScript               3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    21 hrs 22 mins      █████████████████████████   98.19 % 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Edge                     31 hrs 3 mins       ██████████████████████░░░   89.32 % 
-Grok Build               2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Codex Vscode             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Edge                     21 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psd2live                 27 hrs 25 mins      ████████████████████░░░░░   78.90 % 
-3Dto2Dshape              4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-video-devour             2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+psd2live                 11 hrs 2 mins       █████████████░░░░░░░░░░░░   50.70 % 
+3Dto2Dshape              5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+video-devour             2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+cc-switch                1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+MatX-Scheduler-DES       53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 💻 Operating System: 
-Windows                  34 hrs 17 mins      █████████████████████████   98.65 % 
-Linux                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Windows                  21 hrs 28 mins      █████████████████████████   98.62 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (10.68%)
-
-✍️ 402 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 222,639,384 Input Tokens, 991,080 Output Tokens
-
-💵 $642.79 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 65 AI Prompts
-
-GPT                      405 lines           █████████████████████████   100.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 238 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -194,7 +173,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 08:16:49 UTC
+ Last Updated on 19/09/2026 08:16:41 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
