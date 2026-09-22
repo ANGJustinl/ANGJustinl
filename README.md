@@ -116,17 +116,13 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-919%20hrs%2029%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2014%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2439 commits        ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌆 Daytime                1739 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌃 Evening                1630 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-🌙 Night                  158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                2441 commits        ██████████░░░░░░░░░░░░░░░   40.96 % 
+🌆 Daytime                1738 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌃 Evening                1625 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌙 Night                  155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 
@@ -136,22 +132,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 22 mins      █████████████████████████   98.19 % 
-Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Other                    28 hrs 8 mins       ████████████████████████░   96.03 % 
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-Edge                     21 hrs 46 mins      █████████████████████████   100.00 % 
+Edge                     29 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psd2live                 11 hrs 2 mins       █████████████░░░░░░░░░░░░   50.70 % 
-3Dto2Dshape              5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-video-devour             2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-cc-switch                1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-MatX-Scheduler-DES       53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+oai-adversarial-plugin   9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+astro-theme-megastruct   6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+3Dto2Dshape              5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+psd2live                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+runapi                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 💻 Operating System: 
-Windows                  21 hrs 28 mins      █████████████████████████   98.62 % 
-Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Windows                  28 hrs 30 mins      ████████████████████████░   97.27 % 
+Linux                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -163,17 +159,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.78 % 
-TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Go                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
+TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Go                       11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 
 
 
- Last Updated on 19/09/2026 08:16:41 UTC
+ Last Updated on 22/09/2026 08:41:19 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
