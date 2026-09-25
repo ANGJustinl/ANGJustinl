@@ -120,7 +120,7 @@
 
 ```text
 🌞 Morning                2441 commits        ██████████░░░░░░░░░░░░░░░   40.96 % 
-🌆 Daytime                1738 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌆 Daytime                1739 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
 🌃 Evening                1625 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 🌙 Night                  155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
@@ -132,22 +132,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    28 hrs 8 mins       ████████████████████████░   96.03 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other                    37 hrs 46 mins      ████████████████████████░   95.34 % 
+Markdown                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 Editors: 
-Edge                     29 hrs 18 mins      █████████████████████████   100.00 % 
+Edge                     39 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-oai-adversarial-plugin   9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
-astro-theme-megastruct   6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-3Dto2Dshape              5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-psd2live                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-runapi                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+codex-state-kit          12 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   31.52 % 
+oai-adversarial-plugin   9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+astro-theme-megastruct   8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+runapi                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+psd2live                 2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-Windows                  28 hrs 30 mins      ████████████████████████░   97.27 % 
-Linux                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Windows                  38 hrs 53 mins      █████████████████████████   98.13 % 
+Linux                    44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,17 +159,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
-TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Go                       11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.78 % 
+TypeScript               33 repos            ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Go                       11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 
 
 
- Last Updated on 22/09/2026 08:41:19 UTC
+ Last Updated on 25/09/2026 08:52:28 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
