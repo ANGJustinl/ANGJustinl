@@ -119,10 +119,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2441 commits        ██████████░░░░░░░░░░░░░░░   40.96 % 
-🌆 Daytime                1739 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌃 Evening                1625 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌙 Night                  155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+🌞 Morning                2441 commits        ██████████░░░░░░░░░░░░░░░   40.89 % 
+🌆 Daytime                1742 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌃 Evening                1629 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -132,22 +132,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    37 hrs 46 mins      ████████████████████████░   95.34 % 
-Markdown                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    29 hrs 43 mins      ████████████████████████░   95.88 % 
+Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-Edge                     39 hrs 37 mins      █████████████████████████   100.00 % 
+Edge                     31 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codex-state-kit          12 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   31.52 % 
-oai-adversarial-plugin   9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-astro-theme-megastruct   8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-runapi                   2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-psd2live                 2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+codex-state-kit          12 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.77 % 
+astro-theme-megastruct   8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+3Dto2Dshape              4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+oai-adversarial-plugin   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+chatgpt-upi-extractor    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Windows                  38 hrs 53 mins      █████████████████████████   98.13 % 
-Linux                    44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Windows                  30 hrs 4 mins       ████████████████████████░   97.03 % 
+Linux                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -169,7 +169,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 08:52:28 UTC
+ Last Updated on 28/09/2026 09:31:40 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
