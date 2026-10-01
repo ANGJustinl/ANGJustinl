@@ -119,10 +119,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2441 commits        ██████████░░░░░░░░░░░░░░░   40.89 % 
-🌆 Daytime                1742 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌃 Evening                1629 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌞 Morning                2441 commits        ██████████░░░░░░░░░░░░░░░   40.81 % 
+🌆 Daytime                1746 commits        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌃 Evening                1635 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌙 Night                  160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 
@@ -132,22 +132,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 hrs 43 mins      ████████████████████████░   95.88 % 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    18 hrs 4 mins       ████████████████████████░   97.63 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Edge                     31 hrs              █████████████████████████   100.00 % 
+Edge                     18 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codex-state-kit          12 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.77 % 
-astro-theme-megastruct   8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-3Dto2Dshape              4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-oai-adversarial-plugin   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-chatgpt-upi-extractor    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+codex-state-kit          5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+3Dto2Dshape              4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+awesome-opus5-5-videos   4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+sp_vision_25             3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+psd2live                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Windows                  30 hrs 4 mins       ████████████████████████░   97.03 % 
-Linux                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Windows                  17 hrs 26 mins      ████████████████████████░   94.23 % 
+Linux                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -159,17 +159,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.78 % 
-TypeScript               33 repos            ████████░░░░░░░░░░░░░░░░░   32.04 % 
-Go                       11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Python                   42 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+TypeScript               33 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Go                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 28/09/2026 09:31:40 UTC
+ Last Updated on 01/10/2026 09:57:33 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
