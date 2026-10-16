@@ -116,13 +116,17 @@
 <p align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2058%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2452 commits        ██████████░░░░░░░░░░░░░░░   40.01 % 
-🌆 Daytime                1774 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌃 Evening                1696 commits        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-🌙 Night                  207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+🌞 Morning                2454 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
+🌆 Daytime                1781 commits        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌃 Evening                1698 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+🌙 Night                  209 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 
@@ -132,48 +136,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 21 mins      ███████████████████████░░   93.49 % 
-Python                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    43 hrs 13 mins      ███████████████████████░░   93.39 % 
+Python                   2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     27 hrs 58 mins      ████████████████████████░   95.57 % 
-Codex Vscode             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-VS Code                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Edge                     38 hrs 56 mins      █████████████████████░░░░   84.15 % 
+VS Code                  7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Codex Exec               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-vm2api                   7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Chatgpt                  4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-codex-proxy-rs           4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-3Dto2Dshape              3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Universe-Anthem          3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Chatgpt                  9 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+gpt-with-taste           8 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+vm2api                   7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Cloud-Development        5 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+codex-proxy-rs           4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 💻 Operating System: 
-Windows                  28 hrs 43 mins      █████████████████████████   98.12 % 
-Linux                    33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Windows                  45 hrs 37 mins      █████████████████████████   98.57 % 
+Linux                    39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (4.42%)
+⏱ AI Coding Time: 7 hrs 20 mins (15.85%)
 
-✍️ 1,201 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,699 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,988,646 Input Tokens, 180,363 Output Tokens
+🔤 2,329,798 Input Tokens, 1,546,686 Output Tokens
 
-💵 $90.45 Estimated AI Cost This Week
+💵 $1771.59 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 11 AI Prompts
+🧠 17 AI Sessions, 29 AI Prompts
 
-ZCode                    1,201 lines         █████████████████████████   100.00 % 
+ZCode                    2,699 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 124 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -190,7 +196,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 11:12:07 UTC
+ Last Updated on 16/10/2026 08:46:15 UTC
 <!--END_SECTION:waka-->
 </p>      
 </td><td colspan="3">
