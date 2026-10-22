@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1ANGJustinl%F0%9F%8C%B1+!" />
+    <img src="assets/readme/typing.svg" />
   </picture>
 </p>
 
@@ -52,8 +52,8 @@
   <tr style="vertical-align: top;">
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one.vercel.app/api?username=ANGJustinl&theme=dark&count_private=true&show_icons=true&hide_border=true&bg_color=0000">
-        <img height="100%" src="https://github-readme-stats-one.vercel.app/api?username=ANGJustinl&count_private=true&count_private=true&show_icons=true&hide_border=true&bg_color=0000&format=long" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/readme/github-stats-dark.svg">
+        <img height="100%" src="assets/readme/github-stats-light.svg" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -96,8 +96,8 @@
     </a></td>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one.vercel.app/api/top-langs/?username=angjustinl&theme=dark&bg_color=0000&hide_border=true&hide=javascript,html,css">
-        <img height="100%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=angjustinl&hide=html,php&border_color=0000&bg_color=0000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/readme/top-languages-dark.svg">
+        <img height="100%" src="assets/readme/top-languages-light.svg" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -158,53 +158,3 @@ Linux                    23 mins             ░░░░░░░░░░░�
 ```
 
 🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 22 hrs 37 mins (42.45%)
-
-✍️ 15,993 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 49,311,778 Input Tokens, 6,991,277 Output Tokens
-
-💵 $8158.81 Estimated AI Cost This Week
-
-🧠 35 AI Sessions, 137 AI Prompts
-
-ZCode                    11,699 lines        ██████████████████░░░░░░░   73.00 % 
-GPT                      4,327 lines         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 130 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   32.38 % 
-Go                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-```
-
-
-
-
- Last Updated on 19/10/2026 09:00:18 UTC
-<!--END_SECTION:waka-->
-</p>      
-</td><td colspan="3">
-      <details>
-        <summary> Github Stats</summary>
-<p align="center">
-
-<p align="center">
-          <img src="github-metrics.svg" alt="typing-svg">
-        </p>
-      </details>
-</td>
-</table>
