@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1ANGJustinl%F0%9F%8C%B1+!" />
+    <img src="https://readme-typing-svg.demolab.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=%F0%9F%8C%B1ANGJustinl%F0%9F%8C%B1+!" />
   </picture>
 </p>
 
@@ -52,8 +52,8 @@
   <tr style="vertical-align: top;">
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vercel.vercel.angforever.top/api?username=ANGJustinl&theme=dark&count_private=true&show_icons=true&hide_border=true&bg_color=0000">
-        <img height="100%" src="https://github-readme-stats-vercel.vercel.angforever.top/api?username=ANGJustinl&count_private=true&count_private=true&show_icons=true&hide_border=true&bg_color=0000&format=long" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one.vercel.app/api?username=ANGJustinl&theme=dark&count_private=true&show_icons=true&hide_border=true&bg_color=0000">
+        <img height="100%" src="https://github-readme-stats-one.vercel.app/api?username=ANGJustinl&count_private=true&count_private=true&show_icons=true&hide_border=true&bg_color=0000&format=long" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -96,8 +96,8 @@
     </a></td>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-vercel.vercel.angforever.top/api/top-langs/?username=angjustinl&theme=dark&bg_color=0000&hide_border=true&hide=javascript,html,css">
-        <img height="100%" src="https://github-readme-stats-vercel.vercel.angforever.top/api/top-langs/?username=angjustinl&hide=html,php&border_color=0000&bg_color=0000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one.vercel.app/api/top-langs/?username=angjustinl&theme=dark&bg_color=0000&hide_border=true&hide=javascript,html,css">
+        <img height="100%" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=angjustinl&hide=html,php&border_color=0000&bg_color=0000&hide_border=true" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
