@@ -126,3 +126,23 @@ def refresh(root):
     available = 0
     summary = ["### README image cache", "", "| Image | Result |", "| --- | --- |"]
     for entry, status, error in results:
+        if status != "live link":
+            available += 1
+            # Only replace image attribute values, leaving surrounding README content intact.
+            readme = readme.replace(f'"{entry["url"]}"', f'"{entry["path"]}"')
+        print(f'{entry["path"]}: {status}' + (f" ({error})" if error else ""))
+        summary.append(f'| {entry["path"]} | {status} |')
+    if readme != original:
+        readme_path.write_text(readme)
+    if os.environ.get("GITHUB_STEP_SUMMARY"):
+        with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as output:
+            output.write("\n".join(summary) + "\n")
+    # An initial run with no usable images is not a successful cache setup.
+    return 0 if available else 1
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[2])
+    args = parser.parse_args()
+    raise SystemExit(refresh(args.root))
