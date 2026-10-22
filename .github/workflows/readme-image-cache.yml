@@ -20,7 +20,7 @@ jobs:
           ref: ${{ github.ref_name }}
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.15'
       - name: Refresh images and retain the last successful downloads
         run: python .github/scripts/cache_readme_images.py
       - name: Commit updated images
