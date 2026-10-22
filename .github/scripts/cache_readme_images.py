@@ -80,21 +80,30 @@ def download(url):
     if url.startswith("http://"):
         url = "https://" + url[len("http://"):]
     request = Request(url, headers={"User-Agent": "ANGJustinl-readme-image-cache/1.0"})
-    for attempt in range(2):
+    with urlopen(request, timeout=25) as response:
+        return response.read(MAX_BYTES + 1)
+
+
+def download_validated_image(url, suffix):
+    for attempt in range(3):
         try:
-            with urlopen(request, timeout=25) as response:
-                return response.read(MAX_BYTES + 1)
+            data = download(url)
+            validate_image(data, suffix)
+            return data
         except HTTPError as error:
-            if attempt or (error.code != 429 and error.code < 500):
+            retryable = error.code in (408, 425, 429) or error.code >= 500
+            if not retryable or attempt == 2:
                 raise
-            time.sleep(1)
+        except (URLError, HTTPException, TimeoutError, ValueError, ET.ParseError):
+            if attempt == 2:
+                raise
+        time.sleep(attempt + 1)
 
 
 def refresh_image(root, entry):
     path = root / entry["path"]
     try:
-        data = download(entry["url"])
-        validate_image(data, path.suffix)
+        data = download_validated_image(entry["url"], path.suffix)
         if not path.exists() or path.read_bytes() != data:
             path.parent.mkdir(parents=True, exist_ok=True)
             temporary = None
@@ -124,14 +133,15 @@ def refresh(root):
     original = readme_path.read_text()
     readme = original
     available = 0
-    summary = ["### README image cache", "", "| Image | Result |", "| --- | --- |"]
+    summary = ["### README image cache", "", "| Image | Result | Details |", "| --- | --- | --- |"]
     for entry, status, error in results:
         if status != "live link":
             available += 1
             # Only replace image attribute values, leaving surrounding README content intact.
             readme = readme.replace(f'"{entry["url"]}"', f'"{entry["path"]}"')
         print(f'{entry["path"]}: {status}' + (f" ({error})" if error else ""))
-        summary.append(f'| {entry["path"]} | {status} |')
+        details = error.replace("\r", " ").replace("\n", " ").replace("|", "\\|")[:240]
+        summary.append(f'| {entry["path"]} | {status} | {details} |')
     if readme != original:
         readme_path.write_text(readme)
     if os.environ.get("GITHUB_STEP_SUMMARY"):
