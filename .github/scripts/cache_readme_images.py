@@ -126,3 +126,39 @@ def refresh(root):
     available = 0
     summary = ["### README image cache", "", "| Image | Result |", "| --- | --- |"]
     for entry, status, error in results:
+        cached_path = entry["path"]
+        if status == "live link":
+            readme = readme.replace(cached_path, entry["url"])
+        else:
+            readme = readme.replace(entry["url"], cached_path)
+            available += 1
+
+        detail = status if not error else f"{status}: {error}"
+        detail = detail.replace("\n", " ").replace("|", "\\|")
+        summary.append(f"| `{Path(cached_path).name}` | {detail} |")
+
+    summary.extend(["", f"Cached images available: {available}/{len(results)}"])
+    report = "\n".join(summary) + "\n"
+    print(report)
+    step_summary = os.getenv("GITHUB_STEP_SUMMARY")
+    if step_summary:
+        Path(step_summary).write_text(report)
+
+    if readme != original:
+        readme_path.write_text(readme)
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--root",
+        default=Path(__file__).resolve().parents[2],
+        type=Path,
+        help="Repository root directory",
+    )
+    options = parser.parse_args()
+    refresh(options.root)
+
+
+if __name__ == "__main__":
+    main()
