@@ -58,8 +58,8 @@
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=angjustinl&theme=dark&mode=weekly&theme=dark&hide_border=true&background=0000">
-        <img height="100%" src="https://streak-stats.demolab.com/?user=angjustinl&mode=weekly&hide_border=true&background=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/readme/streak-dark.svg">
+        <img height="100%" src="assets/readme/streak-light.svg" />
       </picture>
     </a></td>
   </tr>
@@ -90,8 +90,8 @@
   <tr>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&theme=default&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=angjustinl&hide=html,php&theme=default&border_color=0000&bg_color=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/readme/repos-per-language-dark.svg">
+        <img height="100%" src="assets/readme/repos-per-language-light.svg" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
@@ -102,8 +102,8 @@
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=angjustinl&utcOffset=8&theme=nord_dark&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=angjustinl&utcOffset=8&theme=nord_bright&border_color=0000&bg_color=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/readme/productive-time-dark.svg">
+        <img height="100%" src="assets/readme/productive-time-light.svg" />
       </picture>
     </a></td>
   </tr>
