@@ -78,7 +78,7 @@
   <td colspan="3" style="width: 60%;">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96008766" target="_blank" style="display: block" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96008766&image_size=auto&color_scheme=dark" width="771" height="auto">
+          <source media="(prefers-color-scheme: dark)" srcset="assets/readme/ossinsight-dark.png" width="771" height="auto">
           <img alt="Dashboard stats of @ANGJustinl" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96008766&image_size=auto&color_scheme=light" width="771" height="auto" style="width: 100%; height: auto;">
         </picture>
       </a>
