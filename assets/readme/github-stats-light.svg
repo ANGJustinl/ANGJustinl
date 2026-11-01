@@ -65,7 +65,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 123.14881202349271;
+        stroke-dashoffset: 122.89896521290879;
       }
     }
   
@@ -111,7 +111,7 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-      <text class="stat" x="135" y="12.5" data-testid="commits">418</text>
+      <text class="stat" x="135" y="12.5" data-testid="commits">446</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -121,7 +121,7 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
-      <text class="stat" x="135" y="12.5" data-testid="prs">93</text>
+      <text class="stat" x="135" y="12.5" data-testid="prs">100</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -141,7 +141,7 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Contributed to:</text>
-      <text class="stat" x="135" y="12.5" data-testid="contribs">23</text>
+      <text class="stat" x="135" y="12.5" data-testid="contribs">24</text>
     </g>
   </g>
         </svg>
