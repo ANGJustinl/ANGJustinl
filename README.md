@@ -2,14 +2,14 @@
 
 <p align="center">
   <picture>
-    <img src="assets/readme/typing.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme/banner-dark.svg">
+    <img src="assets/readme/banner-light.svg" width="100%" alt="ANGJustinl" />
   </picture>
 </p>
 
 
 <table align="center">
   <td colspan="6">
-    <h2><p align="center">🥛|**ANG**|🥛HERE</h2>
     <p align="center">✨STUDENT</p>
     <p align="center">
     <a href="mailto:ANGJustinl@gmail.com"><img src="https://img.shields.io/badge/Email-ANGJustinl@gmail.com-6A5ACD?style=flat-square&logoColor=fff" /></a>
@@ -158,3 +158,53 @@ Linux                    23 mins             ░░░░░░░░░░░�
 ```
 
 🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 37 mins (42.45%)
+
+✍️ 15,993 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 49,311,778 Input Tokens, 6,991,277 Output Tokens
+
+💵 $8158.81 Estimated AI Cost This Week
+
+🧠 35 AI Sessions, 137 AI Prompts
+
+ZCode                    11,699 lines        ██████████████████░░░░░░░   73.00 % 
+GPT                      4,327 lines         ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   42 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               34 repos            ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Go                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```
+
+
+
+
+ Last Updated on 19/10/2026 09:00:18 UTC
+<!--END_SECTION:waka-->
+</p>      
+</td><td colspan="3">
+      <details>
+        <summary> Github Stats</summary>
+<p align="center">
+
+<p align="center">
+          <img src="github-metrics.svg" alt="typing-svg">
+        </p>
+      </details>
+</td>
+</table>
