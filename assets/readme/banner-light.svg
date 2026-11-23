@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="164" viewBox="0 0 960 164" role="img" aria-labelledby="title">
+  <title id="title">ANGJustinl</title>
+  <rect width="960" height="164" rx="18" fill="#f5f2fa"/>
+  <g fill="none" stroke="#dbd4e6" stroke-width="1.5">
+    <path d="M500 164C634 146 646 76 764 79S913 52 960 20"/>
+    <path d="M549 164C659 143 684 92 774 94S910 83 960 52"/>
+    <path d="M608 164C704 133 720 107 801 110S918 105 960 79"/>
+  </g>
+  <g transform="translate(57 63)" fill="none" stroke="#70598e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 40Q12 23 31 4M18 22C17 8 27 2 40 1C38 13 31 21 18 22ZM14 31C4 30 0 22 0 15C10 16 16 21 14 31Z"/>
+  </g>
+  <text x="120" y="100" fill="#393449" font-family="Georgia, 'Times New Roman', serif" font-size="59">ANGJustinl</text>
+</svg>
